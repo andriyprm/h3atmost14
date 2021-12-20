@@ -1,0 +1,1586 @@
+----------10000
+input cases: 6635
+7561 subcases considered 5.097470566564136 hours total 2.4270458986418317 seconds per subcase
+----------10001
+input cases: 1685
+1685 subcases considered 1.3057904079225329 hours total 2.789819269151999 seconds per subcase
+----------10002
+input cases: 0
+no cases to consider
+----------10003
+input cases: 0
+no cases to consider
+----------10004
+input cases: 10750
+15932 subcases considered 9.840088095532524 hours total 2.2234695671552274 seconds per subcase
+----------10005
+input cases: 10750
+10762 subcases considered 8.219544363949034 hours total 2.749522366680591 seconds per subcase
+----------10006
+input cases: 1750
+1764 subcases considered 1.4329168268707064 hours total 2.924320054838176 seconds per subcase
+----------10007
+input cases: 0
+no cases to consider
+----------10008
+input cases: 10875
+35667 subcases considered 18.584048120445676 hours total 1.8757555508903028 seconds per subcase
+----------10009
+input cases: 15375
+21875 subcases considered 15.619130988650852 hours total 2.5704626998465403 seconds per subcase
+----------10010
+input cases: 10875
+12161 subcases considered 9.208643564714325 hours total 2.7260189814136644 seconds per subcase
+----------10011
+input cases: 1750
+1750 subcases considered 1.2237294228871662 hours total 2.517386241367885 seconds per subcase
+----------10012
+input cases: 10875
+46855 subcases considered 20.06051804549164 hours total 1.5413054095351597 seconds per subcase
+----------10013
+input cases: 15500
+64992 subcases considered 28.339243380890952 hours total 1.5697512951010497 seconds per subcase
+----------10014
+input cases: 15500
+17596 subcases considered 10.906354328195254 hours total 2.2313523290238075 seconds per subcase
+----------10015
+input cases: 10875
+46309 subcases considered 17.89928298711777 hours total 1.3914664266907937 seconds per subcase
+----------10016
+input cases: 620
+664 subcases considered 0.43065030627780493 hours total 2.3348510581326773 seconds per subcase
+----------10017
+input cases: 620
+622 subcases considered 0.42351425813304056 hours total 2.451207924885765 seconds per subcase
+----------10018
+input cases: 0
+no cases to consider
+----------10019
+input cases: 0
+no cases to consider
+----------10020
+input cases: 1685
+2297 subcases considered 1.235182623995675 hours total 1.9358543519305311 seconds per subcase
+----------10021
+input cases: 6635
+7599 subcases considered 4.756189161605305 hours total 2.2532281855216607 seconds per subcase
+----------10022
+input cases: 1685
+1715 subcases considered 1.2446398592657513 hours total 2.6126550981671746 seconds per subcase
+----------10023
+input cases: 0
+no cases to consider
+----------10024
+input cases: 1750
+4822 subcases considered 2.165756267375416 hours total 1.6169063796249479 seconds per subcase
+----------10025
+input cases: 10750
+14008 subcases considered 6.055835968984498 hours total 1.5563256345191456 seconds per subcase
+----------10026
+input cases: 10750
+10896 subcases considered 6.964848441282908 hours total 2.301161379278494 seconds per subcase
+----------10027
+input cases: 1750
+1750 subcases considered 0.9960917832454046 hours total 2.049103096961975 seconds per subcase
+----------10028
+input cases: 1750
+2658 subcases considered 1.2986814102861617 hours total 1.7589364473401738 seconds per subcase
+----------10029
+input cases: 10875
+11733 subcases considered 6.461207229759958 hours total 1.9824721748176808 seconds per subcase
+----------10030
+input cases: 15375
+15375 subcases considered 8.733834917081728 hours total 2.0449954927801115 seconds per subcase
+----------10031
+input cases: 10875
+13899 subcases considered 6.698854426542918 hours total 1.7350799291714876 seconds per subcase
+----------10032
+input cases: 0
+no cases to consider
+----------10033
+input cases: 5
+5 subcases considered 0.003913780252138774 hours total 2.817921781539917 seconds per subcase
+----------10034
+input cases: 0
+no cases to consider
+----------10035
+input cases: 0
+no cases to consider
+----------10036
+input cases: 0
+no cases to consider
+----------10037
+input cases: 620
+808 subcases considered 0.45408190058337317 hours total 2.023137180817009 seconds per subcase
+----------10038
+input cases: 620
+664 subcases considered 0.43022590272956424 hours total 2.3325500750398063 seconds per subcase
+----------10039
+input cases: 0
+no cases to consider
+----------10040
+input cases: 0
+no cases to consider
+----------10041
+input cases: 1685
+1697 subcases considered 0.9932365466488732 hours total 2.107042762484351 seconds per subcase
+----------10042
+input cases: 6635
+6683 subcases considered 3.7447625217172833 hours total 2.017229549331471 seconds per subcase
+----------10043
+input cases: 1685
+1685 subcases considered 0.7712748628192477 hours total 1.6478276000886005 seconds per subcase
+----------10044
+input cases: 0
+no cases to consider
+----------10045
+input cases: 1750
+1750 subcases considered 1.0631711986329822 hours total 2.1870950371878486 seconds per subcase
+----------10046
+input cases: 10750
+10750 subcases considered 6.816953732238876 hours total 2.282886831261391 seconds per subcase
+----------10047
+input cases: 10750
+11552 subcases considered 6.63498407026132 hours total 2.0676889415634307 seconds per subcase
+----------10048
+input cases: 0
+no cases to consider
+----------10049
+input cases: 0
+no cases to consider
+----------10050
+input cases: 0
+no cases to consider
+----------10051
+input cases: 0
+no cases to consider
+----------10052
+input cases: 0
+no cases to consider
+----------10053
+input cases: 0
+no cases to consider
+----------10054
+input cases: 5
+5 subcases considered 0.0019152264462576972 hours total 1.378963041305542 seconds per subcase
+----------10055
+input cases: 0
+no cases to consider
+----------10056
+input cases: 0
+no cases to consider
+----------10057
+input cases: 0
+no cases to consider
+----------10058
+input cases: 620
+620 subcases considered 0.2442565679550171 hours total 1.4182639429646153 seconds per subcase
+----------10059
+input cases: 620
+620 subcases considered 0.44172020673751833 hours total 2.5648270068630095 seconds per subcase
+----------10060
+input cases: 0
+no cases to consider
+----------10061
+input cases: 0
+no cases to consider
+----------10062
+input cases: 1685
+1739 subcases considered 1.2351181081930795 hours total 2.556886250428457 seconds per subcase
+----------10063
+input cases: 6635
+8983 subcases considered 5.444999887479677 hours total 2.182121740501707 seconds per subcase
+----------10064
+input cases: 10750
+10952 subcases considered 8.317742372088961 hours total 2.734100852768468 seconds per subcase
+----------10065
+input cases: 10750
+10750 subcases considered 8.53659353752931 hours total 2.858766207916792 seconds per subcase
+----------10066
+input cases: 1750
+1750 subcases considered 1.453893750442399 hours total 2.9908671437672205 seconds per subcase
+----------10067
+input cases: 0
+no cases to consider
+----------10068
+input cases: 10875
+21501 subcases considered 12.595051042967372 hours total 2.108840693673901 seconds per subcase
+----------10069
+input cases: 15375
+15405 subcases considered 12.96726623998748 hours total 3.0303251193738996 seconds per subcase
+----------10070
+input cases: 10875
+10969 subcases considered 9.720859325461918 hours total 3.1903631663472427 seconds per subcase
+----------10071
+input cases: 1750
+1750 subcases considered 1.5385810629526775 hours total 3.1650810437883647 seconds per subcase
+----------10072
+input cases: 10875
+100575 subcases considered 39.942781041661895 hours total 1.4297192319163095 seconds per subcase
+----------10073
+input cases: 15500
+33790 subcases considered 17.365529679722258 hours total 1.8501304186741676 seconds per subcase
+----------10074
+input cases: 15500
+21840 subcases considered 13.573731370170911 hours total 2.23742824783037 seconds per subcase
+----------10075
+input cases: 10875
+10913 subcases considered 7.552333303160138 hours total 2.4913772465295057 seconds per subcase
+----------10076
+input cases: 10875
+36695 subcases considered 15.902342051333852 hours total 1.560115312298729 seconds per subcase
+----------10077
+input cases: 15500
+71384 subcases considered 30.919697727693453 hours total 1.5593257847654436 seconds per subcase
+----------10078
+input cases: 15625
+30199 subcases considered 14.914002897209592 hours total 1.7778870303637382 seconds per subcase
+----------10079
+input cases: 15500
+23606 subcases considered 12.297863647143046 hours total 1.875468488084172 seconds per subcase
+----------10080
+input cases: 1685
+1697 subcases considered 1.1168558131986195 hours total 2.3692875235798643 seconds per subcase
+----------10081
+input cases: 6635
+6635 subcases considered 4.504464736911985 hours total 2.4440200531851013 seconds per subcase
+----------10082
+input cases: 1685
+1693 subcases considered 1.0985787085029814 hours total 2.336020880455247 seconds per subcase
+----------10083
+input cases: 0
+no cases to consider
+----------10084
+input cases: 1750
+2370 subcases considered 1.3106143919626871 hours total 1.9908066713357273 seconds per subcase
+----------10085
+input cases: 10750
+11090 subcases considered 7.146507578028573 hours total 2.3198762200994465 seconds per subcase
+----------10086
+input cases: 10750
+13032 subcases considered 7.923114058706496 hours total 2.1887055410791425 seconds per subcase
+----------10087
+input cases: 1750
+1752 subcases considered 1.1136551611291037 hours total 2.2883325228680214 seconds per subcase
+----------10088
+input cases: 1750
+3170 subcases considered 1.6548383351829317 hours total 1.8793116740247804 seconds per subcase
+----------10089
+input cases: 10875
+16427 subcases considered 9.12423705968592 hours total 1.9995892990119504 seconds per subcase
+----------10090
+input cases: 15375
+20023 subcases considered 12.713572752608194 hours total 2.2858144088992405 seconds per subcase
+----------10091
+input cases: 10875
+11013 subcases considered 7.799965076711443 hours total 2.549702558445582 seconds per subcase
+----------10092
+input cases: 1750
+2116 subcases considered 1.3159190762705273 hours total 2.238803721443241 seconds per subcase
+----------10093
+input cases: 10875
+14307 subcases considered 9.140503334667947 hours total 2.299979870329532 seconds per subcase
+----------10094
+input cases: 15500
+16864 subcases considered 10.268107664717569 hours total 2.1919584673258568 seconds per subcase
+----------10095
+input cases: 15500
+15596 subcases considered 9.134600706828966 hours total 2.1085254260441313 seconds per subcase
+----------10096
+input cases: 0
+no cases to consider
+----------10097
+input cases: 620
+620 subcases considered 0.3838328366809421 hours total 2.228706793631277 seconds per subcase
+----------10098
+input cases: 620
+628 subcases considered 0.3646300681432088 hours total 2.0902360594196683 seconds per subcase
+----------10099
+input cases: 0
+no cases to consider
+----------10100
+input cases: 0
+no cases to consider
+----------10101
+input cases: 1685
+2087 subcases considered 1.5853495395183563 hours total 2.7346709833570113 seconds per subcase
+----------10102
+input cases: 6635
+10155 subcases considered 8.179058561457529 hours total 2.8995185446821368 seconds per subcase
+----------10103
+input cases: 1685
+1687 subcases considered 1.151778683397505 hours total 2.457856111577367 seconds per subcase
+----------10104
+input cases: 0
+no cases to consider
+----------10105
+input cases: 1750
+2146 subcases considered 1.8039029332664278 hours total 3.0261186205774186 seconds per subcase
+----------10106
+input cases: 10750
+16738 subcases considered 12.398192967971166 hours total 2.6665966474307683 seconds per subcase
+----------10107
+input cases: 10750
+11218 subcases considered 8.648781575030752 hours total 2.77550487342759 seconds per subcase
+----------10108
+input cases: 0
+no cases to consider
+----------10109
+input cases: 1750
+1766 subcases considered 1.2753313097688888 hours total 2.5997693743873156 seconds per subcase
+----------10110
+input cases: 10875
+11211 subcases considered 8.576806572609478 hours total 2.7541257391306857 seconds per subcase
+----------10111
+input cases: 15375
+15399 subcases considered 11.056586271590657 hours total 2.584824376759943 seconds per subcase
+----------10112
+input cases: 0
+no cases to consider
+----------10113
+input cases: 0
+no cases to consider
+----------10114
+input cases: 5
+5 subcases considered 0.004534392423099941 hours total 3.264762544631958 seconds per subcase
+----------10115
+input cases: 0
+no cases to consider
+----------10116
+input cases: 0
+no cases to consider
+----------10117
+input cases: 0
+no cases to consider
+----------10118
+input cases: 620
+620 subcases considered 0.5747124874591827 hours total 3.3370402497629965 seconds per subcase
+----------10119
+input cases: 620
+620 subcases considered 0.47727517637941574 hours total 2.77127521768693 seconds per subcase
+----------10120
+input cases: 0
+no cases to consider
+----------10121
+input cases: 0
+no cases to consider
+----------10122
+input cases: 1685
+1685 subcases considered 1.409925832549731 hours total 3.0123044493644104 seconds per subcase
+----------10123
+input cases: 6635
+6635 subcases considered 4.954145186344783 hours total 2.6880064311742604 seconds per subcase
+----------10124
+input cases: 0
+no cases to consider
+----------10125
+input cases: 0
+no cases to consider
+----------10126
+input cases: 1750
+1750 subcases considered 1.214152332411872 hours total 2.4976847981044226 seconds per subcase
+----------10127
+input cases: 10750
+10750 subcases considered 7.108065509398778 hours total 2.3803754264033117 seconds per subcase
+----------10128
+input cases: 620
+620 subcases considered 0.47311742610401575 hours total 2.747133441894285 seconds per subcase
+----------10129
+input cases: 620
+620 subcases considered 0.45599244164095987 hours total 2.647698048237831 seconds per subcase
+----------10130
+input cases: 0
+no cases to consider
+----------10131
+input cases: 0
+no cases to consider
+----------10132
+input cases: 1685
+1695 subcases considered 1.273904225428899 hours total 2.7056372929463346 seconds per subcase
+----------10133
+input cases: 6635
+6635 subcases considered 4.745674796303113 hours total 2.5748951419278385 seconds per subcase
+----------10134
+input cases: 1685
+1685 subcases considered 1.1374908051225874 hours total 2.4302474174725903 seconds per subcase
+----------10135
+input cases: 0
+no cases to consider
+----------10136
+input cases: 1750
+2774 subcases considered 1.608382334775395 hours total 2.087302236911111 seconds per subcase
+----------10137
+input cases: 10750
+10760 subcases considered 7.78018759323491 hours total 2.6030367412310107 seconds per subcase
+----------10138
+input cases: 10750
+10752 subcases considered 7.075430860916773 hours total 2.3690058686105266 seconds per subcase
+----------10139
+input cases: 1750
+1750 subcases considered 1.0185885806878408 hours total 2.0953822231292722 seconds per subcase
+----------10140
+input cases: 1750
+1772 subcases considered 1.1858029339048597 hours total 2.409080452628383 seconds per subcase
+----------10141
+input cases: 10875
+10875 subcases considered 7.090228191349241 hours total 2.347110021963887 seconds per subcase
+----------10142
+input cases: 15375
+15375 subcases considered 9.340355011092292 hours total 2.1870099538167316 seconds per subcase
+----------10143
+input cases: 10875
+14691 subcases considered 8.035203386412727 hours total 1.9690104275465126 seconds per subcase
+----------10144
+input cases: 0
+no cases to consider
+----------10145
+input cases: 5
+5 subcases considered 0.004471648070547316 hours total 3.2195866107940674 seconds per subcase
+----------10146
+input cases: 0
+no cases to consider
+----------10147
+input cases: 0
+no cases to consider
+----------10148
+input cases: 0
+no cases to consider
+----------10149
+input cases: 620
+624 subcases considered 0.559816215634346 hours total 3.2297089363519964 seconds per subcase
+----------10150
+input cases: 620
+620 subcases considered 0.4642923519346449 hours total 2.695891075749551 seconds per subcase
+----------10151
+input cases: 0
+no cases to consider
+----------10152
+input cases: 0
+no cases to consider
+----------10153
+input cases: 1685
+1685 subcases considered 1.713509244389004 hours total 3.660909958338525 seconds per subcase
+----------10154
+input cases: 6635
+6705 subcases considered 6.252583332591587 hours total 3.357091722196825 seconds per subcase
+----------10155
+input cases: 1685
+1685 subcases considered 1.338389967083931 hours total 2.8594681789330276 seconds per subcase
+----------10156
+input cases: 0
+no cases to consider
+----------10157
+input cases: 1750
+1750 subcases considered 1.4389647090435027 hours total 2.9601559728894915 seconds per subcase
+----------10158
+input cases: 10750
+10750 subcases considered 9.118222191797363 hours total 3.0535441758577213 seconds per subcase
+----------10159
+input cases: 10750
+10750 subcases considered 8.72023992644416 hours total 2.9202663939719975 seconds per subcase
+----------10160
+input cases: 0
+no cases to consider
+----------10161
+input cases: 0
+no cases to consider
+----------10162
+input cases: 0
+no cases to consider
+----------10163
+input cases: 0
+no cases to consider
+----------10164
+input cases: 0
+no cases to consider
+----------10165
+input cases: 0
+no cases to consider
+----------10166
+input cases: 5
+5 subcases considered 0.005286333229806688 hours total 3.8061599254608156 seconds per subcase
+----------10167
+input cases: 0
+no cases to consider
+----------10168
+input cases: 0
+no cases to consider
+----------10169
+input cases: 0
+no cases to consider
+----------10170
+input cases: 620
+628 subcases considered 0.5457303275002373 hours total 3.128390412421743 seconds per subcase
+----------10171
+input cases: 620
+620 subcases considered 0.4992790314886305 hours total 2.899039537675919 seconds per subcase
+----------10172
+input cases: 0
+no cases to consider
+----------10173
+input cases: 0
+no cases to consider
+----------10174
+input cases: 1685
+1685 subcases considered 1.3828802645868725 hours total 2.9545216335387186 seconds per subcase
+----------10175
+input cases: 6635
+6635 subcases considered 5.061806420352724 hours total 2.7464209665817343 seconds per subcase
+----------10176
+input cases: 0
+no cases to consider
+----------10177
+input cases: 0
+no cases to consider
+----------10178
+input cases: 0
+no cases to consider
+----------10179
+input cases: 0
+no cases to consider
+----------10180
+input cases: 0
+no cases to consider
+----------10181
+input cases: 0
+no cases to consider
+----------10182
+input cases: 0
+no cases to consider
+----------10183
+input cases: 0
+no cases to consider
+----------10184
+input cases: 0
+no cases to consider
+----------10185
+input cases: 0
+no cases to consider
+----------10186
+input cases: 0
+no cases to consider
+----------10187
+input cases: 5
+5 subcases considered 0.004441597064336141 hours total 3.1979498863220215 seconds per subcase
+----------10188
+input cases: 0
+no cases to consider
+----------10189
+input cases: 0
+no cases to consider
+----------10190
+input cases: 0
+no cases to consider
+----------10191
+input cases: 620
+620 subcases considered 0.45406209733751085 hours total 2.6364895974436116 seconds per subcase
+----------10192
+input cases: 1685
+1685 subcases considered 1.3466087255212995 hours total 2.877027544140462 seconds per subcase
+----------10193
+input cases: 6635
+6635 subcases considered 5.486184435023202 hours total 2.976678819304224 seconds per subcase
+----------10194
+input cases: 1685
+1685 subcases considered 1.332637093000942 hours total 2.847177171990143 seconds per subcase
+----------10195
+input cases: 0
+no cases to consider
+----------10196
+input cases: 1750
+3250 subcases considered 1.9821382907364105 hours total 2.195599337431101 seconds per subcase
+----------10197
+input cases: 10750
+10750 subcases considered 9.266865805983544 hours total 3.1033225024689077 seconds per subcase
+----------10198
+input cases: 10750
+10880 subcases considered 9.537853297856119 hours total 3.155907341202392 seconds per subcase
+----------10199
+input cases: 1750
+1750 subcases considered 1.5205523343218696 hours total 3.127993373462132 seconds per subcase
+----------10200
+input cases: 1750
+26176 subcases considered 11.101126067505943 hours total 1.5267441107511228 seconds per subcase
+----------10201
+input cases: 10875
+20603 subcases considered 12.761730399330457 hours total 2.229880572615136 seconds per subcase
+----------10202
+input cases: 15375
+16959 subcases considered 12.878157385985057 hours total 2.733732330299322 seconds per subcase
+----------10203
+input cases: 10875
+10875 subcases considered 8.918630000021723 hours total 2.9523740689727083 seconds per subcase
+----------10204
+input cases: 1750
+3040 subcases considered 1.7255920195579528 hours total 2.0434642336870494 seconds per subcase
+----------10205
+input cases: 10875
+32215 subcases considered 17.74571747733487 hours total 1.9830694682106327 seconds per subcase
+----------10206
+input cases: 15500
+38698 subcases considered 18.56140148950948 hours total 1.7267312357805085 seconds per subcase
+----------10207
+input cases: 15500
+15756 subcases considered 9.808135536048148 hours total 2.2410058345883046 seconds per subcase
+----------10208
+input cases: 0
+no cases to consider
+----------10209
+input cases: 620
+620 subcases considered 0.4768866790665521 hours total 2.769019426838044 seconds per subcase
+----------10210
+input cases: 620
+726 subcases considered 0.49239631950855256 hours total 2.4416346421911697 seconds per subcase
+----------10211
+input cases: 0
+no cases to consider
+----------10212
+input cases: 0
+no cases to consider
+----------10213
+input cases: 1685
+1687 subcases considered 1.3660403533114327 hours total 2.91508314873809 seconds per subcase
+----------10214
+input cases: 6635
+8733 subcases considered 6.661304423213005 hours total 2.7459860212489198 seconds per subcase
+----------10215
+input cases: 1685
+1907 subcases considered 1.4215457335445616 hours total 2.683568243712859 seconds per subcase
+----------10216
+input cases: 0
+no cases to consider
+----------10217
+input cases: 1750
+2388 subcases considered 1.5473305049207475 hours total 2.332659052644343 seconds per subcase
+----------10218
+input cases: 10750
+16000 subcases considered 11.644746448265181 hours total 2.620067950859666 seconds per subcase
+----------10219
+input cases: 10750
+11222 subcases considered 10.007913985914655 hours total 3.2105231107906573 seconds per subcase
+----------10220
+input cases: 0
+no cases to consider
+----------10221
+input cases: 1750
+2932 subcases considered 1.845468467341529 hours total 2.265923084048262 seconds per subcase
+----------10222
+input cases: 10875
+14759 subcases considered 10.503587040967412 hours total 2.562024076663912 seconds per subcase
+----------10223
+input cases: 15375
+15423 subcases considered 11.924904102418157 hours total 2.7834827704535674 seconds per subcase
+----------10224
+input cases: 0
+no cases to consider
+----------10225
+input cases: 0
+no cases to consider
+----------10226
+input cases: 5
+15 subcases considered 0.007371305889553494 hours total 1.7691134134928386 seconds per subcase
+----------10227
+input cases: 0
+no cases to consider
+----------10228
+input cases: 0
+no cases to consider
+----------10229
+input cases: 0
+no cases to consider
+----------10230
+input cases: 620
+1978 subcases considered 1.2183059191041523 hours total 2.2173414098963335 seconds per subcase
+----------10231
+input cases: 620
+656 subcases considered 0.5143829703993268 hours total 2.822833374142647 seconds per subcase
+----------10232
+input cases: 0
+no cases to consider
+----------10233
+input cases: 0
+no cases to consider
+----------10234
+input cases: 1685
+7835 subcases considered 4.495339531434907 hours total 2.0655038051264407 seconds per subcase
+----------10235
+input cases: 6635
+7413 subcases considered 5.874119037124846 hours total 2.8526680876365096 seconds per subcase
+----------10236
+input cases: 0
+no cases to consider
+----------10237
+input cases: 0
+no cases to consider
+----------10238
+input cases: 1750
+3646 subcases considered 2.00775953385565 hours total 1.9824285029841855 seconds per subcase
+----------10239
+input cases: 10750
+11108 subcases considered 7.528895573417346 hours total 2.440045378493198 seconds per subcase
+----------10240
+input cases: 0
+no cases to consider
+----------10241
+input cases: 0
+no cases to consider
+----------10242
+input cases: 0
+no cases to consider
+----------10243
+input cases: 0
+no cases to consider
+----------10244
+input cases: 0
+no cases to consider
+----------10245
+input cases: 0
+no cases to consider
+----------10246
+input cases: 0
+no cases to consider
+----------10247
+input cases: 5
+5 subcases considered 0.00303067770269182 hours total 2.18208794593811 seconds per subcase
+----------10248
+input cases: 0
+no cases to consider
+----------10249
+input cases: 0
+no cases to consider
+
+----------10250
+input cases: 0
+no cases to consider
+----------10251
+input cases: 620
+620 subcases considered 0.2934225143988927 hours total 1.7037436319935706 seconds per subcase
+----------10252
+input cases: 0
+no cases to consider
+----------10253
+input cases: 0
+no cases to consider
+----------10254
+input cases: 0
+no cases to consider
+----------10255
+input cases: 1685
+1685 subcases considered 1.1530601752466625 hours total 2.4635113536427213 seconds per subcase
+----------10256
+input cases: 1685
+2223 subcases considered 1.474858832557996 hours total 2.3884353563692247 seconds per subcase
+----------10257
+input cases: 0
+no cases to consider
+----------10258
+input cases: 0
+no cases to consider
+----------10259
+input cases: 0
+no cases to consider
+----------10260
+input cases: 10750
+31884 subcases considered 16.44662230014801 hours total 1.8569765487558914 seconds per subcase
+----------10261
+input cases: 1750
+2090 subcases considered 1.3592675093809763 hours total 2.3413220257279974 seconds per subcase
+----------10262
+input cases: 0
+no cases to consider
+----------10263
+input cases: 0
+no cases to consider
+----------10264
+input cases: 15375
+67177 subcases considered 33.36400766809781 hours total 1.7879695074973894 seconds per subcase
+----------10265
+input cases: 10875
+108237 subcases considered 47.740867414342034 hours total 1.5878777376648587 seconds per subcase
+----------10266
+input cases: 1750
+18542 subcases considered 6.754263701770041 hours total 1.311366051470831 seconds per subcase
+----------10267
+input cases: 0
+no cases to consider
+----------10268
+input cases: 15500
+69724 subcases considered 29.520464634166824 hours total 1.5242269076631896 seconds per subcase
+----------10269
+input cases: 15500
+303292 subcases considered 115.47962932937675 hours total 1.3707142476087608 seconds per subcase
+----------10270
+input cases: 10875
+92797 subcases considered 40.29509317053689 hours total 1.5632222530246969 seconds per subcase
+----------10271
+input cases: 1750
+3636 subcases considered 1.8084179468949635 hours total 1.7905128187078847 seconds per subcase
+----------10272
+input cases: 620
+718 subcases considered 0.37461965302626293 hours total 1.8783158090453294 seconds per subcase
+----------10273
+input cases: 0
+no cases to consider
+----------10274
+input cases: 0
+no cases to consider
+----------10275
+input cases: 0
+no cases to consider
+----------10276
+input cases: 6635
+43179 subcases considered 12.200666577948464 hours total 1.018514045093555 seconds per subcase
+----------10277
+input cases: 1685
+6775 subcases considered 2.2707541648546856 hours total 1.2121463513459174 seconds per subcase
+----------10278
+input cases: 0
+no cases to consider
+----------10279
+input cases: 0
+no cases to consider
+----------10280
+input cases: 10750
+68504 subcases considered 19.40395959873994 hours total 1.0198743602333638 seconds per subcase
+----------10281
+input cases: 10750
+78900 subcases considered 27.02840253803465 hours total 1.2333445189931267 seconds per subcase
+----------10282
+input cases: 1750
+7272 subcases considered 3.413390769561132 hours total 1.6914255706015244 seconds per subcase
+----------10283
+input cases: 0
+no cases to consider
+----------10284
+input cases: 10875
+16855 subcases considered 9.479388804104593 hours total 2.0247893493993434 seconds per subcase
+----------10285
+input cases: 15375
+43861 subcases considered 19.91862016942766 hours total 1.6349072642485083 seconds per subcase
+----------10286
+input cases: 10875
+17519 subcases considered 8.073668666746881 hours total 1.6591624158173748 seconds per subcase
+----------10287
+input cases: 1750
+1854 subcases considered 1.0918161949846479 hours total 2.121175554206548 seconds per subcase
+----------10288
+input cases: 5
+5 subcases considered 0.0031934773921966555 hours total 2.8741296529769897 seconds per subcase
+----------10289
+input cases: 0
+no cases to consider
+----------10290
+input cases: 0
+no cases to consider
+----------10291
+input cases: 0
+no cases to consider
+----------10292
+input cases: 620
+1858 subcases considered 0.783157616853714 hours total 1.5448588606429428 seconds per subcase
+----------10293
+input cases: 620
+2496 subcases considered 1.0923955117331612 hours total 1.5850962685366303 seconds per subcase
+----------10294
+input cases: 0
+no cases to consider
+----------10295
+input cases: 0
+no cases to consider
+----------10296
+input cases: 1685
+3223 subcases considered 1.4045444087849723 hours total 1.572251203863775 seconds per subcase
+----------10297
+input cases: 6635
+11533 subcases considered 6.542273403339916 hours total 2.042333008326717 seconds per subcase
+----------10298
+input cases: 1685
+2053 subcases considered 1.1756249125798544 hours total 2.0624998466313236 seconds per subcase
+----------10299
+input cases: 0
+no cases to consider
+----------10300
+input cases: 1750
+1752 subcases considered 0.94357993569639 hours total 1.9388628815679245 seconds per subcase
+----------10301
+input cases: 10750
+11070 subcases considered 7.649942654834853 hours total 2.4877862292145863 seconds per subcase
+----------10302
+input cases: 10750
+10816 subcases considered 6.852405697968271 hours total 2.2807563343829305 seconds per subcase
+----------10303
+input cases: 1750
+1750 subcases considered 0.9776558787292904 hours total 2.0111778076716833 seconds per subcase
+----------10304
+input cases: 0
+no cases to consider
+----------10305
+input cases: 0
+no cases to consider
+----------10306
+input cases: 0
+no cases to consider
+----------10307
+input cases: 0
+no cases to consider
+----------10308
+input cases: 0
+no cases to consider
+----------10309
+input cases: 5
+5 subcases considered 0.0038518399000167848 hours total 2.773324728012085 seconds per subcase
+----------10310
+input cases: 0
+no cases to consider
+----------10311
+input cases: 0
+no cases to consider
+----------10312
+input cases: 0
+no cases to consider
+----------10313
+input cases: 620
+622 subcases considered 0.40888419257269965 hours total 2.3665323042792905 seconds per subcase
+----------10314
+input cases: 620
+620 subcases considered 0.3679921711815728 hours total 2.1367287358930036 seconds per subcase
+----------10315
+input cases: 0
+no cases to consider
+----------10316
+input cases: 0
+no cases to consider
+----------10317
+input cases: 1685
+2407 subcases considered 1.171366811328464 hours total 1.7519403908527091 seconds per subcase
+----------10318
+input cases: 6635
+9219 subcases considered 4.265969343185425 hours total 1.6658520051488805 seconds per subcase
+----------10319
+input cases: 1685
+1851 subcases considered 0.889643450445599 hours total 1.730262788548977 seconds per subcase
+----------10320
+input cases: 10750
+16832 subcases considered 8.008479129539596 hours total 1.7128401180098944 seconds per subcase
+----------10321
+input cases: 1750
+1956 subcases considered 1.1634992971022924 hours total 2.1414097492680226 seconds per subcase
+----------10322
+input cases: 0
+no cases to consider
+----------10323
+input cases: 0
+no cases to consider
+----------10324
+input cases: 15375
+172235 subcases considered 59.93378509468503 hours total 1.2527164997873028 seconds per subcase
+----------10325
+input cases: 10875
+18087 subcases considered 9.811354932056533 hours total 1.9528322969759229 seconds per subcase
+----------10326
+input cases: 1750
+2846 subcases considered 1.6546146644486321 hours total 2.092977087847883 seconds per subcase
+----------10327
+input cases: 0
+no cases to consider
+----------10328
+input cases: 15500
+717156 subcases considered 198.2752682499091 hours total 0.9953202979300934 seconds per subcase
+----------10329
+input cases: 15500
+234412 subcases considered 75.88071730911732 hours total 1.165468145898972 seconds per subcase
+----------10330
+input cases: 10875
+192267 subcases considered 54.22350565022892 hours total 1.015278858778803 seconds per subcase
+----------10331
+input cases: 1750
+6608 subcases considered 1.5859676314062543 hours total 0.8640259493133347 seconds per subcase
+----------10332
+input cases: 15500
+209736 subcases considered 53.90042250010703 hours total 0.9251703141110028 seconds per subcase
+----------10333
+input cases: 15625
+subdivision mismatch
+369507 subcases considered 106.62212644133302 hours total 1.0388082684405924 seconds per subcase
+----------10334
+input cases: 15500
+574038 subcases considered 165.66447755879827 hours total 1.0389418805230206 seconds per subcase
+----------10335
+input cases: 10875
+37939 subcases considered 18.29302810331186 hours total 1.7358101471288827 seconds per subcase
+----------10336
+input cases: 6635
+8673 subcases considered 2.9115811689032447 hours total 1.208542858071219 seconds per subcase
+----------10337
+input cases: 1685
+1743 subcases considered 1.2865257010857265 hours total 2.65719594028033 seconds per subcase
+----------10338
+input cases: 0
+no cases to consider
+----------10339
+input cases: 0
+no cases to consider
+----------10340
+input cases: 10750
+64152 subcases considered 27.04638135638502 hours total 1.517754284870091 seconds per subcase
+----------10341
+input cases: 10750
+22220 subcases considered 10.439467715687222 hours total 1.691362906231953 seconds per subcase
+----------10342
+input cases: 1750
+5042 subcases considered 1.9462114987770716 hours total 1.3895996421256362 seconds per subcase
+----------10343
+input cases: 0
+no cases to consider
+----------10344
+input cases: 10875
+106689 subcases considered 37.21416621247927 hours total 1.2557151943023683 seconds per subcase
+----------10345
+input cases: 15375
+55503 subcases considered 24.939938465952874 hours total 1.6176382984240554 seconds per subcase
+----------10346
+input cases: 10875
+67999 subcases considered 24.43021716376146 hours total 1.2933834584264658 seconds per subcase
+----------10347
+input cases: 1750
+4028 subcases considered 1.5892470625374053 hours total 1.4203796983949004 seconds per subcase
+----------10348
+input cases: 10875
+18649 subcases considered 8.213065573440657 hours total 1.5854488747056876 seconds per subcase
+----------10349
+input cases: 15500
+41284 subcases considered 18.180723164611393 hours total 1.5853745613942694 seconds per subcase
+----------10350
+input cases: 15500
+84998 subcases considered 48.2001696395874 hours total 2.0414669839586184 seconds per subcase
+----------10351
+input cases: 10875
+13643 subcases considered 8.986461058391464 hours total 2.3712717005210933 seconds per subcase
+----------10352
+input cases: 620
+626 subcases considered 0.35668074601226385 hours total 2.051199178345287 seconds per subcase
+----------10353
+input cases: 620
+630 subcases considered 0.4695234986146291 hours total 2.6829914206550236 seconds per subcase
+----------10354
+input cases: 0
+no cases to consider
+----------10355
+input cases: 0
+no cases to consider
+----------10356
+input cases: 1685
+2971 subcases considered 1.9457361525959438 hours total 2.357674234044227 seconds per subcase
+----------10357
+input cases: 6635
+13657 subcases considered 8.70634236951669 hours total 2.2950012836098765 seconds per subcase
+----------10358
+input cases: 1685
+4407 subcases considered 2.490800367196401 hours total 2.0346905654429417 seconds per subcase
+----------10359
+input cases: 0
+no cases to consider
+----------10360
+input cases: 1750
+2270 subcases considered 1.4204269401894676 hours total 2.2526594646176576 seconds per subcase
+----------10361
+input cases: 10750
+19556 subcases considered 13.141783764561017 hours total 2.4192279378410544 seconds per subcase
+----------10362
+input cases: 10750
+26512 subcases considered 14.69595154762268 hours total 1.995527518536574 seconds per subcase
+----------10363
+input cases: 1750
+2482 subcases considered 1.3465974607070288 hours total 1.953163117866762 seconds per subcase
+----------10364
+input cases: 1750
+1756 subcases considered 1.1156683123111726 hours total 2.287247109521766 seconds per subcase
+----------10365
+input cases: 10875
+17807 subcases considered 10.517738035056325 hours total 2.126346769596382 seconds per subcase
+----------10366
+input cases: 15375
+34125 subcases considered 16.728172494040596 hours total 1.7647302850856013 seconds per subcase
+----------10367
+input cases: 10875
+11061 subcases considered 5.713228120406469 hours total 1.8594721303194366 seconds per subcase
+----------10368
+input cases: 0
+no cases to consider
+----------10369
+input cases: 5
+5 subcases considered 0.004238803717825148 hours total 3.0519386768341064 seconds per subcase
+----------10370
+input cases: 0
+no cases to consider
+----------10371
+input cases: 0
+no cases to consider
+----------10372
+input cases: 0
+no cases to consider
+----------10373
+input cases: 620
+1012 subcases considered 0.6994880086845822 hours total 2.4882972640953516 seconds per subcase
+----------10374
+input cases: 620
+620 subcases considered 0.47061880581908755 hours total 2.732625324110831 seconds per subcase
+----------10375
+input cases: 0
+no cases to consider
+----------10376
+input cases: 0
+no cases to consider
+----------10377
+input cases: 1685
+1745 subcases considered 1.3022379120853211 hours total 2.6865653200614075 seconds per subcase
+----------10378
+input cases: 6635
+6641 subcases considered 4.315475683344735 hours total 2.3393634181660965 seconds per subcase
+----------10379
+input cases: 1685
+1685 subcases considered 0.9788951442639033 hours total 2.0914080233531465 seconds per subcase
+----------10380
+input cases: 0
+no cases to consider
+----------10381
+input cases: 1750
+1752 subcases considered 1.228932000928455 hours total 2.5252027416338114 seconds per subcase
+----------10382
+input cases: 10750
+10774 subcases considered 6.216891881161266 hours total 2.0772981967867605 seconds per subcase
+----------10383
+input cases: 10750
+10750 subcases considered 5.443298029700915 hours total 1.822871898318446 seconds per subcase
+----------10384
+input cases: 620
+620 subcases considered 0.4206498952706655 hours total 2.442483262861929 seconds per subcase
+----------10385
+input cases: 0
+no cases to consider
+----------10386
+input cases: 0
+no cases to consider
+----------10387
+input cases: 0
+no cases to consider
+----------10388
+input cases: 6635
+9717 subcases considered 5.5621840861108565 hours total 2.060704199855828 seconds per subcase
+----------10389
+input cases: 1685
+1731 subcases considered 1.0426246935129166 hours total 2.1683702464740033 seconds per subcase
+----------10390
+input cases: 0
+no cases to consider
+----------10391
+input cases: 0
+no cases to consider
+----------10392
+input cases: 10750
+17388 subcases considered 9.540021618273522 hours total 1.975159755336133 seconds per subcase
+----------10393
+input cases: 10750
+19878 subcases considered 10.51799861119853 hours total 1.9048593923088195 seconds per subcase
+----------10394
+input cases: 1750
+2654 subcases considered 1.4868349812428157 hours total 2.0168070582042716 seconds per subcase
+----------10395
+input cases: 0
+no cases to consider
+----------10396
+input cases: 10875
+12343 subcases considered 5.758493360214763 hours total 1.67954112426259 seconds per subcase
+----------10397
+input cases: 15375
+33251 subcases considered 13.413761019905408 hours total 1.4522733052136618 seconds per subcase
+----------10398
+input cases: 10875
+16957 subcases considered 8.6104796987772 hours total 1.828019514984839 seconds per subcase
+----------10399
+input cases: 1750
+1960 subcases considered 0.8987956684827805 hours total 1.6508491870091886 seconds per subcase
+----------10400
+input cases: 5
+7 subcases considered 0.002473788195186191 hours total 1.2722339289528983 seconds per subcase
+----------10401
+input cases: 0
+no cases to consider
+----------10402
+input cases: 0
+no cases to consider
+----------10403
+input cases: 0
+no cases to consider
+----------10404
+input cases: 620
+2252 subcases considered 1.0576050914658441 hours total 1.6906653327162693 seconds per subcase
+----------10405
+input cases: 620
+1138 subcases considered 0.8184056855572595 hours total 2.588981079091506 seconds per subcase
+----------10406
+input cases: 0
+no cases to consider
+----------10407
+input cases: 0
+no cases to consider
+----------10408
+input cases: 1685
+3323 subcases considered 1.9514781009488635 hours total 2.1141502146903126 seconds per subcase
+----------10409
+input cases: 6635
+11793 subcases considered 8.482573572264778 hours total 2.5894399101291614 seconds per subcase
+----------10410
+input cases: 1685
+1879 subcases considered 1.8152133613824843 hours total 3.477790367736532 seconds per subcase
+----------10411
+input cases: 0
+no cases to consider
+----------10412
+input cases: 1750
+1872 subcases considered 1.2739592108461593 hours total 2.4499215593195367 seconds per subcase
+----------10413
+input cases: 10750
+13212 subcases considered 10.47705376168092 hours total 2.8547830413299513 seconds per subcase
+----------10414
+input cases: 10750
+11196 subcases considered 10.467126290135914 hours total 3.36563546306621 seconds per subcase
+----------10415
+input cases: 1750
+1750 subcases considered 1.6130177154805925 hours total 3.3182078718457904 seconds per subcase
+----------10416
+input cases: 0
+no cases to consider
+----------10417
+input cases: 0
+no cases to consider
+----------10418
+input cases: 0
+no cases to consider
+----------10419
+input cases: 0
+no cases to consider
+----------10420
+input cases: 0
+no cases to consider
+----------10421
+input cases: 5
+79 subcases considered 0.044757271342807346 hours total 2.0395718586595755 seconds per subcase
+----------10422
+input cases: 0
+no cases to consider
+----------10423
+input cases: 0
+no cases to consider
+----------10424
+input cases: 0
+no cases to consider
+----------10425
+input cases: 620
+3104 subcases considered 1.9507352379295562 hours total 2.2624506625471654 seconds per subcase
+----------10426
+input cases: 620
+758 subcases considered 0.7235326427221298 hours total 3.4363027886539146 seconds per subcase
+----------10427
+input cases: 0
+no cases to consider
+----------10428
+input cases: 0
+no cases to consider
+----------10429
+input cases: 1685
+2539 subcases considered 1.995521859857771 hours total 2.8294126409956584 seconds per subcase
+----------10430
+input cases: 6635
+6891 subcases considered 6.764540006054772 hours total 3.53393470059457 seconds per subcase
+----------10431
+input cases: 1685
+1685 subcases considered 1.3845061581664615 hours total 2.9579953527592058 seconds per subcase
+----------10432
+input cases: 0
+no cases to consider
+----------10433
+input cases: 0
+no cases to consider
+----------10434
+input cases: 0
+no cases to consider
+----------10435
+input cases: 0
+no cases to consider
+----------10436
+input cases: 0
+no cases to consider
+----------10437
+input cases: 0
+no cases to consider
+----------10438
+input cases: 0
+no cases to consider
+----------10439
+input cases: 0
+no cases to consider
+----------10440
+input cases: 0
+no cases to consider
+----------10441
+input cases: 0
+no cases to consider
+----------10442
+input cases: 5
+5 subcases considered 0.005996879074308607 hours total 4.317752933502197 seconds per subcase
+----------10443
+input cases: 0
+no cases to consider
+----------10444
+input cases: 0
+no cases to consider
+----------10445
+input cases: 0
+no cases to consider
+----------10446
+input cases: 620
+620 subcases considered 0.47161343269877964 hours total 2.738400576960656 seconds per subcase
+----------10447
+input cases: 620
+620 subcases considered 0.37183067944314746 hours total 2.159016848379566 seconds per subcase
+----------10448
+input cases: 6635
+6637 subcases considered 4.525613832672437 hours total 2.454755129971489 seconds per subcase
+----------10449
+input cases: 1685
+1685 subcases considered 1.171627515885565 hours total 2.5031804493697534 seconds per subcase
+----------10450
+input cases: 0
+no cases to consider
+----------10451
+input cases: 0
+no cases to consider
+----------10452
+input cases: 10750
+47882 subcases considered 22.1111541015572 hours total 1.662423348348146 seconds per subcase
+----------10453
+input cases: 10750
+10880 subcases considered 7.331481331586838 hours total 2.4258577935397625 seconds per subcase
+----------10454
+input cases: 1750
+2548 subcases considered 1.554867122968038 hours total 2.196829530096129 seconds per subcase
+----------10455
+input cases: 0
+no cases to consider
+----------10456
+input cases: 10875
+251623 subcases considered 90.84120316664378 hours total 1.2996758301105924 seconds per subcase
+----------10457
+input cases: 15375
+124823 subcases considered 43.147967178490426 hours total 1.2444235584993595 seconds per subcase
+----------10458
+input cases: 10875
+63877 subcases considered 26.277178221940993 hours total 1.480937451649069 seconds per subcase
+----------10459
+input cases: 1750
+1802 subcases considered 1.590520473652416 hours total 3.177510380215703 seconds per subcase
+
+----------10460
+input cases: 10875
+53561 subcases considered 23.41191560228666 hours total 1.5735870534200624 seconds per subcase
+----------10461
+input cases: 15500
+175124 subcases considered 67.39081991566552 hours total 1.3853438232132425 seconds per subcase
+----------10462
+input cases: 15500
+329066 subcases considered 117.8171910676029 hours total 1.2889265005906732 seconds per subcase
+----------10463
+input cases: 10875
+17557 subcases considered 7.684346268375714 hours total 1.57564769414778 seconds per subcase
+----------10464
+input cases: 620
+622 subcases considered 0.36536860088507334 hours total 2.114673574254444 seconds per subcase
+----------10465
+input cases: 620
+620 subcases considered 0.378040112124549 hours total 2.195071618787704 seconds per subcase
+----------10466
+input cases: 0
+no cases to consider
+----------10467
+input cases: 0
+no cases to consider
+----------10468
+input cases: 1685
+6227 subcases considered 2.412522360417578 hours total 1.394745543199499 seconds per subcase
+----------10469
+input cases: 6635
+7501 subcases considered 4.409066464702288 hours total 2.1160697604223753 seconds per subcase
+----------10470
+input cases: 1685
+2071 subcases considered 1.2457533040311601 hours total 2.1654813590111908 seconds per subcase
+----------10471
+input cases: 0
+no cases to consider
+----------10472
+input cases: 1750
+18664 subcases considered 6.526248311466641 hours total 1.2588134334161973 seconds per subcase
+----------10473
+input cases: 10750
+26212 subcases considered 13.532873511314392 hours total 1.858627523299703 seconds per subcase
+----------10474
+input cases: 10750
+38488 subcases considered 24.476535394854015 hours total 2.289428586091105 seconds per subcase
+----------10475
+input cases: 1750
+3878 subcases considered 2.6494301389985613 hours total 2.4595019340884017 seconds per subcase
+----------10476
+input cases: 1750
+4438 subcases considered 1.8187349362505807 hours total 1.475314504394342 seconds per subcase
+----------10477
+input cases: 10875
+42663 subcases considered 19.377353937890796 hours total 1.6351047553244464 seconds per subcase
+----------10478
+input cases: 15375
+85183 subcases considered 43.56446080903212 hours total 1.8414434871373713 seconds per subcase
+----------10479
+input cases: 10875
+15793 subcases considered 9.56001987569862 hours total 2.1791978441407607 seconds per subcase
+----------10480
+input cases: 0
+no cases to consider
+----------10481
+input cases: 5
+7 subcases considered 0.004755122595363193 hours total 2.4454916204724992 seconds per subcase
+----------10482
+input cases: 0
+no cases to consider
+----------10483
+input cases: 0
+no cases to consider
+----------10484
+input cases: 0
+no cases to consider
+----------10485
+input cases: 620
+1308 subcases considered 0.811006007525656 hours total 2.2321266262174015 seconds per subcase
+----------10486
+input cases: 620
+2152 subcases considered 1.0805030379692713 hours total 1.8075329631456212 seconds per subcase
+----------10487
+input cases: 0
+no cases to consider
+----------10488
+input cases: 0
+no cases to consider
+----------10489
+input cases: 1685
+6317 subcases considered 3.5084908564223185 hours total 1.9994565589869155 seconds per subcase
+----------10490
+input cases: 6635
+53785 subcases considered 28.885461737447315 hours total 1.934006514187069 seconds per subcase
+----------10491
+input cases: 1685
+6709 subcases considered 3.137350264522764 hours total 1.683479050869273 seconds per subcase
+----------10492
+input cases: 0
+no cases to consider
+----------10493
+input cases: 1750
+10534 subcases considered 5.267881570922004 hours total 1.8003012773228797 seconds per subcase
+----------10494
+input cases: 10750
+50242 subcases considered 25.450245964725813 hours total 1.8235915264721334 seconds per subcase
+----------10495
+input cases: 10750
+14966 subcases considered 8.362137461503346 hours total 2.0114723280376885 seconds per subcase
+----------10496
+input cases: 0
+no cases to consider
+----------10497
+input cases: 0
+no cases to consider
+----------10498
+input cases: 0
+no cases to consider
+----------10499
+input cases: 0
+no cases to consider
+----------10500
+input cases: 0
+no cases to consider
+----------10501
+input cases: 0
+no cases to consider
+----------10502
+input cases: 5
+5 subcases considered 0.003164409531487359 hours total 2.2783748626708986 seconds per subcase
+----------10503
+input cases: 0
+no cases to consider
+----------10504
+input cases: 0
+no cases to consider
+----------10505
+input cases: 0
+no cases to consider
+----------10506
+input cases: 620
+1118 subcases considered 0.624962811867396 hours total 2.0124026142420623 seconds per subcase
+----------10507
+input cases: 620
+970 subcases considered 0.4064744563235177 hours total 1.5085649925408904 seconds per subcase
+----------10508
+input cases: 0
+no cases to consider
+----------10509
+input cases: 0
+no cases to consider
+----------10510
+input cases: 1685
+2037 subcases considered 1.0235661753018697 hours total 1.808953476233054 seconds per subcase
+----------10511
+input cases: 6635
+6675 subcases considered 2.8000920730166965 hours total 1.5101620169078813 seconds per subcase
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
