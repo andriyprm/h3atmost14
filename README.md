@@ -1,4 +1,4 @@
-he accompanying research paper can be accessed at:
+The accompanying research paper can be accessed at:
 https://arxiv.org/???
 
 Any questions should be directed by email to prymak at gmail dot com.
@@ -9,6 +9,6 @@ Checker/solver scripts should be given the command line argument representing th
 
 Solver assumes existence of input file(s) in the /input folder and will create the corresponding file in the /output folder.
 
-Checker assumes existence of output file(s) in the /output folder. The repository contains several zip archives in this folder which need to be unzipped first.
+Checker assumes existence of output file(s) in the /output folder.
 
 Checker log file contains the results of the checker scripts.
